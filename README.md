@@ -1,7 +1,7 @@
 # Towers-of-Hanoi
 
 ### Overview
-Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks. The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
+Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks. The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack. Run [script.py](https://github.com/dan-doyle/Towers-of-Hanoi/blob/main/script.py) to start playing.
 
 The game follows three rules:
 
@@ -10,4 +10,4 @@ The game follows three rules:
 - No disk may be placed on top of a smaller disk.
 
 ### Learning Objectives
-Improve knowledge of stacks through creating data structures classes from the ground up.
+Improve knowledge of stacks through creating data structure classes from the ground up.
